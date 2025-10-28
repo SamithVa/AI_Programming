@@ -7,7 +7,7 @@ The task uses the CIFAR-10 dataset, which has the following characteristics:Imag
 
 # ✅ Core Requirements
 
-## Framework Implementation: 
+## Framework Implementation
 
 - Implement a classification model using **two** of the following deep learning frameworks: TensorFlow(Google), PyTorch(Meta), or MindSpore(Huawei).
 - Performance Standard: The classification model built must achieve a classification accuracy of **at least 80%** on the test set for each framework.
