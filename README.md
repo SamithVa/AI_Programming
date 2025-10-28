@@ -1,0 +1,1 @@
+This repository contains assigments for AI programming class @ SIGS.
